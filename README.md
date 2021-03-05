@@ -13,4 +13,4 @@ Hobbies: Listening to music, spending time with loved ones, traveling, taking na
 
 Dream career: Software engineer or IT (still thinking about it)
 
-Fav songs: Life Goes On by BTS, Highway to Heaven by NCT 127, and Shine Together by SF9
+Favorite songs: Life Goes On by BTS, Highway to Heaven by NCT 127, and Shine Together by SF9
