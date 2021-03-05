@@ -11,5 +11,5 @@ I grew up in Brooklyn, NYC and a current sophomore (soon to be a junior) at HSTA
 
 Dream career: Software engineer or IT (still thinking about it)
 
-A song that helps me through this pandemic: Life Goes ON by BTS
+A song that helps me through this pandemic: Life Goes On by BTS
 
