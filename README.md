@@ -10,3 +10,6 @@ sanilac6459@hstat.org
 I grew up in Brooklyn, NYC and a current sophomore (soon to be a junior) at HSTAT.
 
 Dream career: Software engineer or IT (still thinking about it)
+
+A song that helps me through this pandemic: Life Goes ON by BTS
+
