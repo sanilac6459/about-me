@@ -11,7 +11,7 @@ Sanila is 15 years old. She grew up in Brooklyn, NYC and she's currently a sopho
 ---
 
 ### Hobbies
-* istening to music
+* listening to music
 * spending time with friends and family
 * traveling
 * taking naps
