@@ -3,7 +3,7 @@
 **Student**
 
 _High School Telecommunication of Arts and Technology_
-[High School Telecommunication of Arts and Technology](https://www.hstat.org
+[High School Telecommunication of Arts and Technology](https://www.hstat.org)
 
 sanilac6459@hstat.org
 
@@ -23,6 +23,7 @@ sanilac6459@hstat.org
 ### Dream career
 * Software engineer
 * IT
+
 _(still thinking about it)_
 
 ---
