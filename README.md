@@ -7,7 +7,7 @@ _High School Telecommunication of Arts and Technology_
 
 sanilac6459@hstat.org
 
-Sanila is 15 years old. She grew up in Brooklyn, NYC and she's currently a sophomore (soon to be a junior) at Tele.
+##### Sanila is 15 years old. She grew up in Brooklyn, NYC and she's currently a sophomore (soon to be a junior) at Tele.
 ---
 
 ### Hobbies
