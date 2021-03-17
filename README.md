@@ -2,8 +2,7 @@
 
 **Student**
 
-_High School Telecommunication of Arts and Technology_
-[High School Telecommunication of Arts and Technology](https://www.hstat.org)
+[_High School Telecommunication of Arts and Technology_](https://www.hstat.org)
 
 sanilac6459@hstat.org
 
