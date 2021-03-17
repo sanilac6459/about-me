@@ -19,7 +19,7 @@ sanilac6459@hstat.org
 
 ---
 
-### *Dream career
+### * Dream career
   * Software engineer
   * IT
 
@@ -27,7 +27,7 @@ _(still thinking about it)_
 
 ---
 
-### *Favorite songs
+### * Favorite songs
 1. Life Goes On by BTS
 2. Highway to Heaven by NCT 127
 3. Shine Together by SF9
