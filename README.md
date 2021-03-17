@@ -28,7 +28,7 @@ _(still thinking about it)_
 ---
 
 ### Favorite songs
-* Life Goes On by BTS
-* Highway to Heaven by NCT 127
-* Shine Together by SF9
-* On The Ground by Rosé
+1. Life Goes On by BTS
+2. Highway to Heaven by NCT 127
+3. Shine Together by SF9
+4. On The Ground by Rosé
